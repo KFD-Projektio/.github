@@ -25,3 +25,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height=36>  &nbsp;
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height=36>  &nbsp;
 
+----
+
+The code is protected by **MIT LICENSE**: [Link](https://github.com/KFD-Projektio/.github/blob/main/LICENSE "Projektio license link")
