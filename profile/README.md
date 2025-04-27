@@ -27,4 +27,4 @@
 
 ----
 
-The code is protected by **MIT LICENSE**: [Link](https://github.com/KFD-Projektio/.github/blob/main/LICENSE "Projektio license link")
+Projektio is licensed under **MIT LICENSE**: [Link](https://github.com/KFD-Projektio/.github/blob/main/LICENSE "Projektio license link")
